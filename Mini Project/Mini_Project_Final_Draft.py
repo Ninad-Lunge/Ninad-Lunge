@@ -1,14 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      Ninad
-#
-# Created:     26/06/2022
-# Copyright:   (c) Personal 2022
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
-
 import math
 
 print("Enter a : For Thin Film Interference")
