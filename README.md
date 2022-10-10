@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ninad-Lunge
-- 👀 I’m interested in ... New Technology, ML and AI.
+- 👀 I’m interested in ... New Technology, App Development, ML and AI.
 - 🌱 I’m currently learning ... Computer Engineering
 - 💞️ I’m looking to collaborate on ... Anything
 - 📫 How to reach me ... with my E-mail : ninadlunge@gmail.com
