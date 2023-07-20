@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ninad-Lunge
-- 👀 I’m interested in ... New Technology, App Development, ML and AI.
-- 🌱 I’m currently learning ... Computer Engineering
-- 💞️ I’m looking to collaborate on ... Anything
-- 📫 How to reach me ... with my E-mail : ninadlunge@gmail.com
+- 👀 I’m interested in New Technology, App Development, ML and AI.
+- 🌱 I’m currently learning Computer Engineering
+- 💞️ I’m looking to collaborate on Anything
+- 📫 How to reach me with my E-mail : ninadlunge@gmail.com
 
 <!---
 Ninad-Lunge/Ninad-Lunge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
