@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on Web and App Development Projects.
 - 📫 How to reach me with my E-mail : ninadlunge@gmail.com
-- 📑 My Resume : <a>https://drive.google.com/file/d/1pNT1LGnbu08ue3JoN_s6MiQrsSR5646n/view?usp=sharing<a>
+- 📑 My Resume : <p><a>https://drive.google.com/file/d/1pNT1LGnbu08ue3JoN_s6MiQrsSR5646n/view?usp=sharing<a>Link to the PDF<p>
 
 <!---
 Ninad-Lunge/Ninad-Lunge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
